@@ -15,4 +15,4 @@ This repository contains Jupyter Notebooks with solutions, analyses, and explora
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SparksFlash/Kaggle.git
+   [git clone https://github.com/SparksFlash/Kaggle.git](https://github.com/SparksFlash/Kaggle/blob/main/exercise-explore-your-data.ipynb)
