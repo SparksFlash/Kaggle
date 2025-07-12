@@ -20,3 +20,4 @@ This repository contains Jupyter Notebooks with solutions, analyses, and explora
 **Exercise link:**  
 1. [Explore-Your-Data](https://github.com/SparksFlash/Kaggle/blob/main/exercise-explore-your-data.ipynb)
 2. [Your First Machine Learning Model](https://github.com/SparksFlash/Kaggle/blob/main/exercise-your-first-machine-learning-model.ipynb)
+3. [Model Validation]
